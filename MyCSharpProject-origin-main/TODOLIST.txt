@@ -1,0 +1,18 @@
+JeopardyGame Projekt - TODO-lista
+Kategori val och Poäng
+Skapa flera kategorier med poängfrågor
+Välj roliga och varierade ämnen som passar ett Jeopardy spel och för  ev spelare.
+Säkerställ att poäng för rätt svar läggs till spelarens poäng och visas direkt.
+Vid fel svar fortsätter spelet och den spelare som senast svarade rätt får fortsätta välja kategori.
+Skapa Spelregler och Instruktioner
+Beskriv reglerna för hur man spelar, t.ex. hur man väljer kategori och svarar.
+En runda ev en final där man kan satsa sina poäng
+Huvudklassen JeopardyGame
+Skapa klassen JeopardyGame 
+Klass för Spelare (Player)
+Skapa en klass Player som representerar varje spelares namn och poäng.
+Presentationer för Spelarna
+
+Timer
+Visa nedräkning på skärmen så att spelarna vet hur mycket tid de har kvar.
+
